@@ -25,7 +25,7 @@ npm install
 在終端機輸入：
 
 ```bash
-node main.js
+npm run dev
 ```
 
 程式會提示你輸入 25 個 0/1 字元，例如：
